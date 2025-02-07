@@ -3,8 +3,7 @@
 (Go to [English summary](#English-summary))
 
 DAC7 Reporter ist ein Programm zur Übermittlung von Pflichtmitteilungen für das
-Plattformen-Steuertransparenzgesetz (PStTG) im XML/DIP-Format über die DPI/DAC7-Schnittstelle (auch
-bekannt als ELSTER / CESOP).
+Plattformen-Steuertransparenzgesetz (PStTG) über die DIP/DAC7-Schnittstelle.
 
 Das Desktopprogramm kann für Linux, macOS und Windows kompiliert werden.
 
@@ -51,7 +50,7 @@ Anwendung einen Fehler aus. Ohne die Java Anwendung können nur bereits signiert
 
 ## English summary
 
-DAC7 Reporter is a desktop application to submit signed XML files in the DIP format to the DPI/DAC7
+DAC7 Reporter is a desktop application to submit signed DAC7 reports to the DIP/DAC7
 API. This is a German government API for reporting tax related information.
 
 The application can be compiled for Linux, macOS and Windows. It is currently only available in
